@@ -1,0 +1,8 @@
+mvn dependencies
+
+<dependency>
+  <groupId>org.unbroken-dome.base62</groupId>
+  <artifactId>base62</artifactId>
+  <version>1.1.0</version>
+</dependency>
+
